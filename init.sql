@@ -8,3 +8,4 @@ INSERT INTO tasks (name, status) VALUES
   ('Buy groceries', 'pending'),
   ('Walk the dog', 'done'),
   ('Read a book', 'pending');
+  INSERT INTO tasks (name, status) VALUES ('Tea', 'pending');
